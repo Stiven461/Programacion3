@@ -1,0 +1,9 @@
+C:\Users\Estudiantes\source\repos\ejercicios basicos\ejercicios\bin\Debug\ejercicios.exe.config
+C:\Users\Estudiantes\source\repos\ejercicios basicos\ejercicios\bin\Debug\ejercicios.exe
+C:\Users\Estudiantes\source\repos\ejercicios basicos\ejercicios\bin\Debug\ejercicios.pdb
+C:\Users\Estudiantes\source\repos\ejercicios basicos\ejercicios\obj\Debug\ejercicios.csproj.AssemblyReference.cache
+C:\Users\Estudiantes\source\repos\ejercicios basicos\ejercicios\obj\Debug\ejercicios.Properties.Resources.resources
+C:\Users\Estudiantes\source\repos\ejercicios basicos\ejercicios\obj\Debug\ejercicios.csproj.GenerateResource.cache
+C:\Users\Estudiantes\source\repos\ejercicios basicos\ejercicios\obj\Debug\ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\Estudiantes\source\repos\ejercicios basicos\ejercicios\obj\Debug\ejercicios.exe
+C:\Users\Estudiantes\source\repos\ejercicios basicos\ejercicios\obj\Debug\ejercicios.pdb
