@@ -9,3 +9,14 @@ C:\Users\Estudiantes\Documents\Nuevo\Practicas_jue\Practicas_jue\obj\Debug\Pract
 C:\Users\Estudiantes\Documents\Nuevo\Practicas_jue\Practicas_jue\obj\Debug\Practicas_jue.pdb
 C:\Users\Estudiantes\Documents\Nuevo\Practicas_jue\Practicas_jue\obj\Debug\Practicas_jue.Form1.resources
 C:\Users\Estudiantes\Documents\Nuevo\Practicas_jue\Practicas_jue\obj\Debug\Practicas_jue.Form2.resources
+C:\Users\MI COMPUTADOR\Documents\Visual-P\Programacion3-main\Programacion3-main\Practicas_jue\Practicas_jue\bin\Debug\Practicas_jue.exe.config
+C:\Users\MI COMPUTADOR\Documents\Visual-P\Programacion3-main\Programacion3-main\Practicas_jue\Practicas_jue\bin\Debug\Practicas_jue.exe
+C:\Users\MI COMPUTADOR\Documents\Visual-P\Programacion3-main\Programacion3-main\Practicas_jue\Practicas_jue\bin\Debug\Practicas_jue.pdb
+C:\Users\MI COMPUTADOR\Documents\Visual-P\Programacion3-main\Programacion3-main\Practicas_jue\Practicas_jue\obj\Debug\Practicas_jue.csproj.AssemblyReference.cache
+C:\Users\MI COMPUTADOR\Documents\Visual-P\Programacion3-main\Programacion3-main\Practicas_jue\Practicas_jue\obj\Debug\Practicas_jue.Form1.resources
+C:\Users\MI COMPUTADOR\Documents\Visual-P\Programacion3-main\Programacion3-main\Practicas_jue\Practicas_jue\obj\Debug\Practicas_jue.Form2.resources
+C:\Users\MI COMPUTADOR\Documents\Visual-P\Programacion3-main\Programacion3-main\Practicas_jue\Practicas_jue\obj\Debug\Practicas_jue.Properties.Resources.resources
+C:\Users\MI COMPUTADOR\Documents\Visual-P\Programacion3-main\Programacion3-main\Practicas_jue\Practicas_jue\obj\Debug\Practicas_jue.csproj.GenerateResource.cache
+C:\Users\MI COMPUTADOR\Documents\Visual-P\Programacion3-main\Programacion3-main\Practicas_jue\Practicas_jue\obj\Debug\Practicas_jue.csproj.CoreCompileInputs.cache
+C:\Users\MI COMPUTADOR\Documents\Visual-P\Programacion3-main\Programacion3-main\Practicas_jue\Practicas_jue\obj\Debug\Practicas_jue.exe
+C:\Users\MI COMPUTADOR\Documents\Visual-P\Programacion3-main\Programacion3-main\Practicas_jue\Practicas_jue\obj\Debug\Practicas_jue.pdb
