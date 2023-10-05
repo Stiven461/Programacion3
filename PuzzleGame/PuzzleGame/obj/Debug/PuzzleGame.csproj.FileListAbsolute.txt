@@ -1,0 +1,10 @@
+D:\Escritorio\upc_fabian\PuzzleGame\bin\Debug\PuzzleGame.exe.config
+D:\Escritorio\upc_fabian\PuzzleGame\bin\Debug\PuzzleGame.exe
+D:\Escritorio\upc_fabian\PuzzleGame\bin\Debug\PuzzleGame.pdb
+D:\Escritorio\upc_fabian\PuzzleGame\obj\Debug\PuzzleGame.csproj.AssemblyReference.cache
+D:\Escritorio\upc_fabian\PuzzleGame\obj\Debug\PuzzleGame.Form1.resources
+D:\Escritorio\upc_fabian\PuzzleGame\obj\Debug\PuzzleGame.Properties.Resources.resources
+D:\Escritorio\upc_fabian\PuzzleGame\obj\Debug\PuzzleGame.csproj.GenerateResource.cache
+D:\Escritorio\upc_fabian\PuzzleGame\obj\Debug\PuzzleGame.csproj.CoreCompileInputs.cache
+D:\Escritorio\upc_fabian\PuzzleGame\obj\Debug\PuzzleGame.exe
+D:\Escritorio\upc_fabian\PuzzleGame\obj\Debug\PuzzleGame.pdb
