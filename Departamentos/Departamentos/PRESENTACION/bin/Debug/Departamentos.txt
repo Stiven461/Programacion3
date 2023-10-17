@@ -1,0 +1,12 @@
+1;cesar
+2;Magdalena
+3;atlantico
+4;Antioquia
+5;Cundinamarca
+6;Bucaramanga
+7;Sucre
+8;Guajira
+9;Valle
+10;Ibague
+11;Risaralda
+12;NN

@@ -1,0 +1,8 @@
+1;Bogota;1
+2;Valledupar;1
+3;Medellin;4
+4;Santa marta;2
+5;Santander;6
+6;Tolima;10
+7;manizales;11
+8;NIT;12

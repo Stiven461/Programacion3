@@ -1,0 +1,6 @@
+C:\Users\jair-\Desktop\upc_fabian\Departamentos\ENTITY\bin\Debug\ENTITY.dll
+C:\Users\jair-\Desktop\upc_fabian\Departamentos\ENTITY\bin\Debug\ENTITY.pdb
+C:\Users\jair-\Desktop\upc_fabian\Departamentos\ENTITY\obj\Debug\ENTITY.csproj.AssemblyReference.cache
+C:\Users\jair-\Desktop\upc_fabian\Departamentos\ENTITY\obj\Debug\ENTITY.csproj.CoreCompileInputs.cache
+C:\Users\jair-\Desktop\upc_fabian\Departamentos\ENTITY\obj\Debug\ENTITY.dll
+C:\Users\jair-\Desktop\upc_fabian\Departamentos\ENTITY\obj\Debug\ENTITY.pdb
