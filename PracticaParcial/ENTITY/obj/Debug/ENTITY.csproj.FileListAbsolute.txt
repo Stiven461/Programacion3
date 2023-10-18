@@ -1,0 +1,6 @@
+C:\Users\MI COMPUTADOR\Desktop\Ejercicios\PracticaParcial\ENTITY\bin\Debug\ENTITY.dll
+C:\Users\MI COMPUTADOR\Desktop\Ejercicios\PracticaParcial\ENTITY\bin\Debug\ENTITY.pdb
+C:\Users\MI COMPUTADOR\Desktop\Ejercicios\PracticaParcial\ENTITY\obj\Debug\ENTITY.csproj.AssemblyReference.cache
+C:\Users\MI COMPUTADOR\Desktop\Ejercicios\PracticaParcial\ENTITY\obj\Debug\ENTITY.csproj.CoreCompileInputs.cache
+C:\Users\MI COMPUTADOR\Desktop\Ejercicios\PracticaParcial\ENTITY\obj\Debug\ENTITY.dll
+C:\Users\MI COMPUTADOR\Desktop\Ejercicios\PracticaParcial\ENTITY\obj\Debug\ENTITY.pdb

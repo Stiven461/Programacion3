@@ -1,0 +1,17 @@
+C:\Users\MI COMPUTADOR\Desktop\Ejercicios\PracticaParcial\PRESENTACION\bin\Debug\PRESENTACION.exe.config
+C:\Users\MI COMPUTADOR\Desktop\Ejercicios\PracticaParcial\PRESENTACION\bin\Debug\PRESENTACION.exe
+C:\Users\MI COMPUTADOR\Desktop\Ejercicios\PracticaParcial\PRESENTACION\bin\Debug\PRESENTACION.pdb
+C:\Users\MI COMPUTADOR\Desktop\Ejercicios\PracticaParcial\PRESENTACION\bin\Debug\BLL.dll
+C:\Users\MI COMPUTADOR\Desktop\Ejercicios\PracticaParcial\PRESENTACION\bin\Debug\ENTITY.dll
+C:\Users\MI COMPUTADOR\Desktop\Ejercicios\PracticaParcial\PRESENTACION\bin\Debug\DAL.dll
+C:\Users\MI COMPUTADOR\Desktop\Ejercicios\PracticaParcial\PRESENTACION\bin\Debug\BLL.pdb
+C:\Users\MI COMPUTADOR\Desktop\Ejercicios\PracticaParcial\PRESENTACION\bin\Debug\ENTITY.pdb
+C:\Users\MI COMPUTADOR\Desktop\Ejercicios\PracticaParcial\PRESENTACION\bin\Debug\DAL.pdb
+C:\Users\MI COMPUTADOR\Desktop\Ejercicios\PracticaParcial\PRESENTACION\obj\Debug\PRESENTACION.csproj.AssemblyReference.cache
+C:\Users\MI COMPUTADOR\Desktop\Ejercicios\PracticaParcial\PRESENTACION\obj\Debug\PRESENTACION.Form1.resources
+C:\Users\MI COMPUTADOR\Desktop\Ejercicios\PracticaParcial\PRESENTACION\obj\Debug\PRESENTACION.Properties.Resources.resources
+C:\Users\MI COMPUTADOR\Desktop\Ejercicios\PracticaParcial\PRESENTACION\obj\Debug\PRESENTACION.csproj.GenerateResource.cache
+C:\Users\MI COMPUTADOR\Desktop\Ejercicios\PracticaParcial\PRESENTACION\obj\Debug\PRESENTACION.csproj.CoreCompileInputs.cache
+C:\Users\MI COMPUTADOR\Desktop\Ejercicios\PracticaParcial\PRESENTACION\obj\Debug\PRESENTACION.csproj.CopyComplete
+C:\Users\MI COMPUTADOR\Desktop\Ejercicios\PracticaParcial\PRESENTACION\obj\Debug\PRESENTACION.exe
+C:\Users\MI COMPUTADOR\Desktop\Ejercicios\PracticaParcial\PRESENTACION\obj\Debug\PRESENTACION.pdb

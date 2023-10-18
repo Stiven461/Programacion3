@@ -1,0 +1,2 @@
+4;jabon;10;5;6000;Activo
+1;zapato;20;5;60000;Activo
